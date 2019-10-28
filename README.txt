@@ -38,3 +38,46 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
+
+		# LAB 04
+
+## Flexbox and Templating
+
+I build an app with a direct and powerful purpose. It does all of the things that it accomplishes well. I should describe the purpose and functionality so those that visit my README understand the app
+
+### Author: Diana Kim
+
+### Links and Resources
+* [submission PR](http://xyz.com)
+* 
+
+### Setup
+
+#### `.env` requirements
+* `PORT` - Port Number
+* `DATABASE_URL` - URL to the running mongo instance/db
+* any environment variables like api keys as needed
+
+#### Running the app
+* `npm start`
+* Endpoint: `/foo/bar/`
+  * Returns a JSON object with abc in it.
+* Endpoint: `/bing/zing/`
+  * Returns a JSON object with xyz in it.
+
+### Reflections and Comments
+
+* Consider including the answers to your daily journal and submission questions here
+* This is also a good place to reflect on the tools and resources used and learned
+
+MIT License
+
+Built with Javascript, jQuery, Handelbars, HTML, CSS
+
+Feature #1: 
+Estimate of time needed to complete: 
+Start time: 
+Finish time: 
+Actual time needed to complete: 
