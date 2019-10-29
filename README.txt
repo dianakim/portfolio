@@ -76,8 +76,8 @@ MIT License
 
 Built with Javascript, jQuery, Handelbars, HTML, CSS
 
-Feature #1: 
-Estimate of time needed to complete: 
-Start time: 
+Feature #1: Refactor the CAS
+Estimate of time needed to complete: 1 hour
+Start time: 13:00	
 Finish time: 
 Actual time needed to complete: 
