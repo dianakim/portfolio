@@ -77,8 +77,8 @@ MIT License
 Built with Javascript, jQuery, Handelbars, HTML, CSS
 
 Feature #1: Add functionality
-Estimate of time needed to complete:  hour
+Estimate of time needed to complete: 3 hours
 Start time: 13:30	
-Finish time: 
-Actual time needed to complete: 
+Finish time: 18:40
+Actual time needed to complete: 5:10
 
