@@ -13,7 +13,7 @@
   -webkit-justify-content: space-between;
   -ms-justify-content: space-between;
   justify-content: space-between;
-  background: #222629 url("images/overlay.png");
+  background: #222629;
   box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
   color: #fff;
   height: 100%;
@@ -99,12 +99,12 @@
 }
 
   #main > section {
-    margin: 0;
+    margin: 0 auto;
     overflow: hidden;
     padding: 4em 0;
     box-shadow: inset 0 1px 0 0 rgba(0, 0, 0, 0.05), inset 0 0.1em 0.1em 0 rgba(0, 0, 0, 0.025);
     text-align: center;
-    background-image: url("images/overlay.png");
+    /* background-image: url("images/overlay.png"); */
   }
 
     #main > section.dark {
@@ -137,8 +137,25 @@
     }
 
     #main > section.one {
+      max-width: 1594px;
       background-color: #81918E;
-      background-image: url("../../images/banner.jpg");
+      background: url("../../images/img-slider.jpg");
+      animation-name: slide;
+      animation-delay: 1s;
+      animation-duration: 20s;
+      animation-direction: normal;
+      animation-timing-function: ease;
+      animation-iteration-count: infinite;
+    }
+
+    @keyframes slide {
+      0% {background-position:0 0;}
+      16.66% {background-position: 0px 0;}
+      33.32% {background-position: -1600px 0;}
+      49.98% {background-position: -1600px 0;}
+      66.64% {background-position: -3200px 0;}
+      83.30% {background-position: -3200px 0;}
+      100% {background-position: -3200 0;}
     }
 
     #main > section.two {

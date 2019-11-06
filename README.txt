@@ -51,7 +51,7 @@ I build an app with a direct and powerful purpose. It does all of the things tha
 
 ### Links and Resources
 * [submission PR](http://xyz.com)
-* 
+* How to Create an Image Slider or Slideshow (https://www.w3docs.com/snippets/css/how-to-create-an-image-slider-or-slideshow.html)
 
 ### Setup
 
@@ -76,8 +76,9 @@ MIT License
 
 Built with Javascript, jQuery, Handelbars, HTML, CSS
 
-Feature #1: Refactor the CAS
-Estimate of time needed to complete: 1 hour
-Start time: 13:00	
-Finish time: 
-Actual time needed to complete: 
+Feature #1: Add functionality
+Estimate of time needed to complete: 3 hours
+Start time: 13:30	
+Finish time: 18:40
+Actual time needed to complete: 5:10
+

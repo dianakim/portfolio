@@ -150,7 +150,7 @@
       font-size: 1.25em;
     }
 
-  /* Header */
+  Header
 
     #header {
       -moz-backface-visibility: hidden;
@@ -336,7 +336,7 @@
     }
 
     #main section.cover {
-      padding: 4em 0em;
+      padding: 0em 0em;
     }
 
       #main section.cover header {
