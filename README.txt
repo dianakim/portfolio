@@ -51,7 +51,7 @@ I build an app with a direct and powerful purpose. It does all of the things tha
 
 ### Links and Resources
 * [submission PR](http://xyz.com)
-* 
+* How to Create an Image Slider or Slideshow (https://www.w3docs.com/snippets/css/how-to-create-an-image-slider-or-slideshow.html)
 
 ### Setup
 
